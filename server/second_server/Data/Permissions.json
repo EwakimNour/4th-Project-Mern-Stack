@@ -1,0 +1,17 @@
+{
+    "Permissions_User": [
+        {
+            "id": "62b5d55c6a0e13e50e9f73e3",
+            "Permissions": [
+                "View Subscriptions",
+                "Create Subscriptions",
+                "Delete Subscriptions",
+                "Update Subscriptions",
+                "View Movies",
+                "Create Movies",
+                "Delete Movies",
+                "Update Movies"
+            ]
+        }
+    ]
+}
